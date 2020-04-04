@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-theme-sky-lite-starter",
-  "version": "1.3.2",
+  "name": "gatsby-theme-flora-website-starter",
+  "version": "1.0.0",
   "main": "index.js",
-  "author": "Ryan Bell <ryanbell@gmail.com> (@iRyanBell)",
+  "author": "Oliver Bains @obains",
   "license": "MIT",
   "scripts": {
     "start": "gatsby develop",
@@ -10,7 +10,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby-theme-flora-website": "^1.0.1",
+    "gatsby-theme-flora-website": "^1.1.1",
     "gatsby": "^2.20.10",
     "gatsby-plugin-manifest": "^2.2.29",
     "react": "^16.11.0",
